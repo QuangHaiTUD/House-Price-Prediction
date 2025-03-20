@@ -51,7 +51,7 @@ input_data_scaled = scaler.transform([input_data])[0]
 if st.button('Prediction'):
     prediction = model.predict([input_data_scaled])
     st.write('The predicted house price is:')
-    st.success(f'{prediction[0].item():,.2f}$')
+    st.success(f'{prediction[0].item():,.0f}$')
 
 # Footer
 st.markdown('---')
