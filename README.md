@@ -86,5 +86,5 @@ This application is a Streamlit-based web app designed to predict house prices b
 ## Contact
 For questions or issues, please contact:
 - **Name**: Dang Quang Hai
-- **Email**: dangquanghai@example.com
+- **Email**: dangquanghai.word@gmail.com
 
