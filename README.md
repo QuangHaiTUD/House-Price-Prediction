@@ -29,11 +29,11 @@ This application is a Streamlit-based web app designed to predict house prices b
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/QuangHaiTUD/house-price-prediction.git
+   git clone https://github.com/QuangHaiTUD/House-Price-Prediction.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd house-price-prediction
+   cd House-Price-Prediction
    ```
 3. Install the required dependencies:
    ```bash
